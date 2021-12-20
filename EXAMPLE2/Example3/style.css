@@ -1,0 +1,26 @@
+.button {
+    background-color: rgb(251, 253, 253);
+    color: darkblue;
+    padding: 10px 70px;
+    font-weight: bold;
+    border-color: brown;
+    border-radius: 25px;   
+    font-size: 18px;
+}
+
+.buttonRound {
+    background-color: blueviolet; 
+    color: azure;
+    border-radius: 50px;
+    height: 50px;
+    width: 50px;
+    font-size: 18px;
+}
+
+.boxShadow {
+    background-color: crimson;
+    color:ghostwhite;
+    padding: 15px 40px;
+    font-size: 16px;
+    box-shadow: 10px 5px 5px black;
+}

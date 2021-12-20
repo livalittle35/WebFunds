@@ -1,0 +1,118 @@
+body{
+    font-family: cursive;
+}
+
+#nav{
+    background-color: black;
+    color: ghostwhite;
+    display:flex;
+    justify-content: space-between;
+    width: 690px;
+    align-items: center;
+    margin-left: 155px;
+    margin-right: 10px;   
+}
+
+h1{
+    margin-left: 20px;
+}
+
+#main{
+    display:flex;
+    justify-content: center;
+    width:1000px;
+}
+
+.feed{
+    text-align: center;
+    width: 670px;
+    margin-left: 175px;
+}
+
+
+.flex1{
+    flex 1;
+    margin-right: 30px;
+}
+
+.flex2{
+    flex 2;
+    margin-left: 20px;
+}
+
+.avatar {
+    border: 3px solid black;
+    /* margin-left: 40px; */
+    margin-top: 10px;
+    padding-left: 0px;
+    /* display: flex; */
+    padding: 20px;
+    /* align-items: center; */
+    /* width: 70%; */
+    height: 40%;
+    margin-right: 20px;
+    
+}
+
+.avatar img{
+    width: 90px; 
+    /* justify-content: center */
+    margin-top: -10px;
+    border-radius: 50%;
+    /* align-content: center; */
+    margin: 0px auto;
+    display:block;
+}
+
+.neil{
+    border: 3px solid black;
+    width: 500px;
+    margin-left: -60px;
+    margin-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px; 
+    display:flex;
+    justify-content: space-between;
+}
+
+.nichole{
+    border: 3px solid black;
+    margin-left: -60px;
+    margin-top: 20px;
+    padding-bottom: 10px;
+    padding-left: 10px; 
+    display:flex;
+    justify-content: space-between;
+}
+
+.jim{
+    border: 3px solid black;
+    margin-left: -60px;
+    margin-top: 20px;
+    padding-bottom: 10px;
+    padding-left: 10px; 
+    display:flex;
+    justify-content: space-between;
+}
+
+.btn1{
+    background-color: yellow;
+    box-shadow:5px 5px 5px black;
+    margin-bottom: 160px;
+    margin-top: 18px;
+}
+
+.buttonlike1{
+    margin-right: 20px;
+    display: flex;
+}
+
+.buttonlike2{
+    margin-right: 20px;
+    display: flex;
+}
+
+.buttonlike3{
+    margin-right: 20px;
+    display: flex;
+}

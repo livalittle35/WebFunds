@@ -1,0 +1,106 @@
+body{
+    font-family: cursive;
+}
+
+#nav{
+    background-color: gray;
+    display:flex;
+    justify-content: space-between;
+    width: 960px;
+    align-items: center;
+    margin-left: 80px;
+    margin-right: 10px;
+    
+}
+
+h1{
+    margin-left: 20px;
+}
+
+#btn1{
+    background-color: blue;
+    color: ghostwhite;
+    font-size: large;
+    box-shadow:5px 5px 5px black;
+    margin-right: 20px;
+}
+
+#main{
+    display: flex;
+    justify-content: center;
+    width:1000px;
+}
+
+.flex2{
+    flex: 2;
+}
+
+.flex1{
+    flex: 1;
+    margin-left: 20px;
+}
+
+.topNinja{
+    border: 3px solid black;
+    margin-left: 80px;
+    margin-top: 20px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    display: flex;
+}
+
+.bottomNinja{
+    border: 3px solid black;
+    margin-left: 80px;
+    margin-top: 20px;
+    padding-bottom: 10px;
+    padding-left: 10px; 
+    display:flex;
+}
+
+.definition{
+    border: 3px solid black;
+    margin-left: 20px;
+    margin-top: 20px;
+    padding-left: 10px;
+    margin-right: -40px;
+    padding-bottom: 20px;
+}
+
+h2{
+    font-size: 40px;
+    margin-top: 5px;
+}
+
+.noun{
+    font-style: italic;
+    margin-top: -20px;
+    margin-left: 20px;
+}
+
+#btn2{
+    background-color:yellow;
+    box-shadow:5px 5px 5px black;
+    margin-bottom: -20px;
+}
+
+#btn3{
+    background-color:mediumseagreen;
+    box-shadow:5px 5px 5px black;
+}
+
+#nav input[type=text] {
+    border: 1px solid black;
+    width: 360px;
+    padding: 10px;
+}
+
+.skills{
+    margin-left: 100px;
+    margin-top: 40px;
+}
+
+.programmer{
+    margin-left: 100px;
+    margin-top: 40px;
+}
